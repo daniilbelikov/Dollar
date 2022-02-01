@@ -1,0 +1,27 @@
+//
+//  Localizable.strings
+//  Dollar
+//
+//  Created by Daniil Belikov on 01.09.2021.
+//  Copyright © 2021 belikov.dev. All rights reserved.
+//
+
+"TABVIEW.COURSESVIEW.TITLE" = "Курсы";
+"TABVIEW.ABOUTVIEW.TITLE" = "Информация";
+
+"SCREENS.CALENDARVIEW.TITLE" = "Выбрать дату";
+"SCREENS.CALENDARVIEW.TEXT.CHOICE" = "Выбрать";
+"SCREENS.CALENDARVIEW.TEXT.BACK" = "Назад";
+
+"SCREENS.ABOUTVIEW.TITLE" = "Информация";
+"SCREENS.ABOUTVIEW.TEXT.TITLE" = "Даниил Беликов";
+"SCREENS.ABOUTVIEW.TEXT.SUBTITLE" = "iOS разработчик";
+"SCREENS.ABOUTVIEW.TEXT.DESCRIPTION" = "Активный и достаточно целеустремленный человек. Имею хороший опыт создания мобильных приложений от идеи до публикации в App Store и Google Play. В свободное время учусь на бакалавриате по направлению «Прикладная информатика», а также интересуюсь Blockchain-технологиями.";
+"SCREENS.ABOUTVIEW.BUTTON" = "Нанять";
+
+"SCREENS.COURSESVIEW.TITLE" = "Курсы валют";
+
+"SCREENS.CURRENCYMANAGER.CHARCODE" = "RUR";
+"SCREENS.CURRENCYMANAGER.NAME" = "Российский рубль";
+"SCREENS.CURRENCYMANAGER.VALUE" = "1.0";
+"SCREENS.CURRENCYMANAGER.NOMINAL" = "1";
