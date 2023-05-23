@@ -15,8 +15,8 @@
 
 "SCREENS.ABOUTVIEW.TITLE" = "Информация";
 "SCREENS.ABOUTVIEW.TEXT.TITLE" = "Даниил Беликов";
-"SCREENS.ABOUTVIEW.TEXT.SUBTITLE" = "iOS разработчик";
-"SCREENS.ABOUTVIEW.TEXT.DESCRIPTION" = "Активный и достаточно целеустремленный человек. Имею хороший опыт создания мобильных приложений от идеи до публикации в App Store и Google Play. В свободное время учусь на бакалавриате по направлению «Прикладная информатика», а также интересуюсь Blockchain-технологиями.";
+"SCREENS.ABOUTVIEW.TEXT.SUBTITLE" = "iOS разработчик с опытом Flutter";
+"SCREENS.ABOUTVIEW.TEXT.DESCRIPTION" = "Активный и достаточно целеустремленный человек. Занимаюсь разработкой мобильных приложений более 4-х лет. Имею опыт создания мобильных приложений от идеи до публикации в App Store и Google Play. В свободное время изучаю английский язык, а также увлекаюсь Blockchain-технологиями.";
 "SCREENS.ABOUTVIEW.BUTTON" = "Нанять";
 
 "SCREENS.COURSESVIEW.TITLE" = "Курсы валют";

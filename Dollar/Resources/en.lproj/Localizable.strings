@@ -15,8 +15,8 @@
 
 "SCREENS.ABOUTVIEW.TITLE" = "About";
 "SCREENS.ABOUTVIEW.TEXT.TITLE" = "Daniil Belikov";
-"SCREENS.ABOUTVIEW.TEXT.SUBTITLE" = "iOS Developer";
-"SCREENS.ABOUTVIEW.TEXT.DESCRIPTION" = "An active and purposeful person. I have good experience in creating mobile applications from idea to publication in the App Store and Google Play. In my free time, I study for a bachelor's degree in Computer Science, and I am also interested in Blockchain technologies.";
+"SCREENS.ABOUTVIEW.TEXT.SUBTITLE" = "iOS Developer with Flutter experience";
+"SCREENS.ABOUTVIEW.TEXT.DESCRIPTION" = "Active and purposeful person. I have been developing mobile apps for over 4 years. I have experience in creating mobile applications from idea to publication in the App Store and Google Play. In my free time, I study English, and I am also fond of Blockchain technologies.";
 "SCREENS.ABOUTVIEW.BUTTON" = "Hire";
 
 "SCREENS.COURSESVIEW.TITLE" = "Currency rates";
